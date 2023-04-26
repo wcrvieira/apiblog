@@ -3911,19 +3911,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adria\\.nuget\\packages\\": {}
+    "C:\\Users\\Wagner\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\apiblognoticia\\apiblognoticia.csproj",
+      "projectUniqueName": "D:\\Projeto_Blog\\blognoticia\\api\\apiblognoticia.csproj",
       "projectName": "apiblognoticia",
-      "projectPath": "C:\\apiblognoticia\\apiblognoticia.csproj",
-      "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-      "outputPath": "C:\\apiblognoticia\\obj\\",
+      "projectPath": "D:\\Projeto_Blog\\blognoticia\\api\\apiblognoticia.csproj",
+      "packagesPath": "C:\\Users\\Wagner\\.nuget\\packages\\",
+      "outputPath": "D:\\Projeto_Blog\\blognoticia\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Wagner\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
