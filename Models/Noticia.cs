@@ -24,6 +24,4 @@ public class Noticia
     [Required(ErrorMessage = "Data da notícia é obrigatória.")]
     [Range(typeof(DateTime), "01-01-2023", "31-12-2100")]
     public DateTime Data { get; set; }
-
-    public string Status { get; set; }
 }
